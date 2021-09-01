@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: 280blocker adblock filter
-! Homepage: https://280blocker.net
+! Homepage: https://github.com/daiki9427/adblock
 !
 ! Licence: 
 ! This file is only permitted for personal use under copyright law.
